@@ -1,0 +1,46 @@
+,match,winner,margin,ground,matchDate,scorecard,match_id,match_won_via,team_match
+0,Namibia Vs Sri lanka,Namibia,55 runs,Geelong,"Oct 16, 2022",T20I # 1823,1823,runs,NAM Vs SL
+1,Netherlands Vs U.a.e.,Netherlands,3 wickets,Geelong,"Oct 16, 2022",T20I # 1825,1825,wickets,NED Vs UAE
+2,Scotland Vs West indies,Scotland,42 runs,Hobart,"Oct 17, 2022",T20I # 1826,1826,runs,SCO Vs WI
+3,Ireland Vs Zimbabwe,Zimbabwe,31 runs,Hobart,"Oct 17, 2022",T20I # 1828,1828,runs,IRE Vs ZIM
+4,Namibia Vs Netherlands,Netherlands,5 wickets,Geelong,"Oct 18, 2022",T20I # 1830,1830,wickets,NAM Vs NED
+5,Sri lanka Vs U.a.e.,Sri Lanka,79 runs,Geelong,"Oct 18, 2022",T20I # 1832,1832,runs,SL Vs UAE
+6,Ireland Vs Scotland,Ireland,6 wickets,Hobart,"Oct 19, 2022",T20I # 1833,1833,wickets,IRE Vs SCO
+7,West indies Vs Zimbabwe,West Indies,31 runs,Hobart,"Oct 19, 2022",T20I # 1834,1834,runs,WI Vs ZIM
+8,Netherlands Vs Sri lanka,Sri Lanka,16 runs,Geelong,"Oct 20, 2022",T20I # 1835,1835,runs,NED Vs SL
+9,Namibia Vs U.a.e.,U.A.E.,7 runs,Geelong,"Oct 20, 2022",T20I # 1836,1836,runs,NAM Vs UAE
+10,Ireland Vs West indies,Ireland,9 wickets,Hobart,"Oct 21, 2022",T20I # 1837,1837,wickets,IRE Vs WI
+11,Scotland Vs Zimbabwe,Zimbabwe,5 wickets,Hobart,"Oct 21, 2022",T20I # 1838,1838,wickets,SCO Vs ZIM
+12,Australia Vs New zealand,New Zealand,89 runs,Sydney,"Oct 22, 2022",T20I # 1839,1839,runs,AUS Vs NZ
+13,Afghanistan Vs England,England,5 wickets,Perth,"Oct 22, 2022",T20I # 1840,1840,wickets,AFG Vs ENG
+14,Ireland Vs Sri lanka,Sri Lanka,9 wickets,Hobart,"Oct 23, 2022",T20I # 1841,1841,wickets,IRE Vs SL
+15,India Vs Pakistan,India,4 wickets,Melbourne,"Oct 23, 2022",T20I # 1842,1842,wickets,IND Vs PAK
+16,Bangladesh Vs Netherlands,Bangladesh,9 runs,Hobart,"Oct 24, 2022",T20I # 1843,1843,runs,BAN Vs NED
+17,South africa Vs Zimbabwe,no result,,Hobart,"Oct 24, 2022",T20I # 1844,1844,no_result,SA Vs ZIM
+18,Australia Vs Sri lanka,Australia,7 wickets,Perth,"Oct 25, 2022",T20I # 1845,1845,wickets,AUS Vs SL
+19,England Vs Ireland,Ireland,5 runs,Melbourne,"Oct 26, 2022",T20I # 1846,1846,runs,ENG Vs IRE
+20,Afghanistan Vs New zealand,abandoned,,Melbourne,"Oct 26, 2022",T20I # 1846a,1846a,no_result,AFG Vs NZ
+21,Bangladesh Vs South africa,South Africa,104 runs,Sydney,"Oct 27, 2022",T20I # 1847,1847,runs,BAN Vs SA
+22,India Vs Netherlands,India,56 runs,Sydney,"Oct 27, 2022",T20I # 1848,1848,runs,IND Vs NED
+23,Pakistan Vs Zimbabwe,Zimbabwe,1 run,Perth,"Oct 27, 2022",T20I # 1849,1849,run,PAK Vs ZIM
+24,Afghanistan Vs Ireland,abandoned,,Melbourne,"Oct 28, 2022",T20I # 1849a,1849a,no_result,AFG Vs IRE
+25,Australia Vs England,abandoned,,Melbourne,"Oct 28, 2022",T20I # 1849b,1849b,no_result,AUS Vs ENG
+26,New zealand Vs Sri lanka,New Zealand,65 runs,Sydney,"Oct 29, 2022",T20I # 1850,1850,runs,NZ Vs SL
+27,Bangladesh Vs Zimbabwe,Bangladesh,3 runs,Brisbane,"Oct 30, 2022",T20I # 1851,1851,runs,BAN Vs ZIM
+28,Netherlands Vs Pakistan,Pakistan,6 wickets,Perth,"Oct 30, 2022",T20I # 1852,1852,wickets,NED Vs PAK
+29,India Vs South africa,South Africa,5 wickets,Perth,"Oct 30, 2022",T20I # 1853,1853,wickets,IND Vs SA
+30,Australia Vs Ireland,Australia,42 runs,Brisbane,"Oct 31, 2022",T20I # 1855,1855,runs,AUS Vs IRE
+31,Afghanistan Vs Sri lanka,Sri Lanka,6 wickets,Brisbane,"Nov 1, 2022",T20I # 1856,1856,wickets,AFG Vs SL
+32,England Vs New zealand,England,20 runs,Brisbane,"Nov 1, 2022",T20I # 1858,1858,runs,ENG Vs NZ
+33,Netherlands Vs Zimbabwe,Netherlands,5 wickets,Adelaide,"Nov 2, 2022",T20I # 1859,1859,wickets,NED Vs ZIM
+34,Bangladesh Vs India,India,5 runs,Adelaide,"Nov 2, 2022",T20I # 1860,1860,runs,BAN Vs IND
+35,Pakistan Vs South africa,Pakistan,33 runs,Sydney,"Nov 3, 2022",T20I # 1861,1861,runs,PAK Vs SA
+36,Ireland Vs New zealand,New Zealand,35 runs,Adelaide,"Nov 4, 2022",T20I # 1862,1862,runs,IRE Vs NZ
+37,Afghanistan Vs Australia,Australia,4 runs,Adelaide,"Nov 4, 2022",T20I # 1864,1864,runs,AFG Vs AUS
+38,England Vs Sri lanka,England,4 wickets,Sydney,"Nov 5, 2022",T20I # 1867,1867,wickets,ENG Vs SL
+39,Netherlands Vs South africa,Netherlands,13 runs,Adelaide,"Nov 6, 2022",T20I # 1871,1871,runs,NED Vs SA
+40,Bangladesh Vs Pakistan,Pakistan,5 wickets,Adelaide,"Nov 6, 2022",T20I # 1872,1872,wickets,BAN Vs PAK
+41,India Vs Zimbabwe,India,71 runs,Melbourne,"Nov 6, 2022",T20I # 1873,1873,runs,IND Vs ZIM
+42,New zealand Vs Pakistan,Pakistan,7 wickets,Sydney,"Nov 9, 2022",T20I # 1877,1877,wickets,NZ Vs PAK
+43,England Vs India,England,10 wickets,Adelaide,"Nov 10, 2022",T20I # 1878,1878,wickets,ENG Vs IND
+44,England Vs Pakistan,England,5 wickets,Melbourne,"Nov 13, 2022",T20I # 1879,1879,wickets,ENG Vs PAK
